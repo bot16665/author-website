@@ -1,7 +1,7 @@
 // App.jsx
 import React from 'react'
 import './App.css'
-import Navbar from './components/navbar'
+import Navbar from './components/Navebar'
 import AboutPage from './pages/About'
 import Books from './pages/Books'
 import Contact from './pages/Contact'
