@@ -2,6 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import authorImage from "../assets/author.jpeg"; // replace with your author image
 
+
 const About = () => {
     // Animation variants
     const containerVariants = {

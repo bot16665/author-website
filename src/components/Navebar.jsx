@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
 import { motion, AnimatePresence } from "framer-motion";
-import bgImage from "../assets/bg.jpg"; // replace with your image
+import bgImage from "../assets/bg1.jpg"; // replace with your image
 
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
